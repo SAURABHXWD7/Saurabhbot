@@ -1,6 +1,6 @@
 async function aliveCommand(sock, chatId) {
     try {
-        const message = `*🤖 Knight Bot is Active!*\n\n` +
+        const message = `*🤖 Saurabh Bot is Active!*\n\n` +
                        `*Version:* 1.0.0\n` +
                        `*Status:* Online\n` +
                        `*Mode:* Public\n\n` +
