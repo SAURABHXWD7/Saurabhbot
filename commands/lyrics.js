@@ -35,8 +35,8 @@ _Powered by XTeam API_`;
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterJid: '120363322419190456@newsletter',
+                    newsletterName: 'Saurabh-bot',
                     serverMessageId: -1
                 }
             }
