@@ -16,7 +16,7 @@ _Star ⭐ the repository if you like the bot!_`;
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363161513685998@newsletter',
+                    newsletterJid: '120363322419190456@newsletter',
                     newsletterName: 'Saurabh-bot',
                     serverMessageId: -1
                 }
