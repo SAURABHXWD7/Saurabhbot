@@ -136,7 +136,7 @@ Join our channel for updates:`;
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterName: 'Saurabh-bot by Mr Saurabh Thakur',
                         serverMessageId: -1
                     } 
                 }
